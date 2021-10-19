@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name": "Best Doctors Consultation",
+        "img": "https://i.ibb.co/dgBZ8bY/doctor-with-co-workers-analyzing-x-ray.jpg",
+        "description": " Consultation models are also a great way to help prepare for the clinical skills assessment (CSA). One of the six blueprint areas tested in the ",
+        "price": 3000,
+        "availability": "Available"
+    
+    },
+    {
+        "id":2,
+        "name": "Proper consultation for Patients",
+        "img": "https://i.ibb.co/NSzJvN0/afro-doctors-consulting-young-adult-hospital-ward.jpg",
+        "description": "Medical tests can help detect a condition, determine a diagnosis, plan treatment, check to see if treatment is working, or monitor the condition over time.",
+        "price": 4000,
+        "availability": "Available"
+    },
+    {
+        "id":3,
+        "name": "Dental Care",
+        "img": "https://i.ibb.co/X4KF0TS/male-professional-dentist-with-gloves-mask-discuss-what-treatment-will-look-like-patient-s-teeth.jpg",
+        "description": "Find Dentist Boulder Co. Unlimited Access. 100% Secure. Always Facts. Privacy Friendly. The Best Resources. Results & Answers. Types: Best Results, Explore Now",
+        "price": 2400,
+        "availability": "Available"
+    },
+    {
+        "id":4,
+        "name": "Covid Vaccination",
+        "img": "https://i.ibb.co/k5F3nxR/woman-with-plaster-shoulder-sitting-chair-after-vaccination.jpg",
+        "description": "COVID-19 vaccines are safe, effective and built to save lives. Learn more about the benefits today. Fact-based content. Trusted information. Highlights: ",
+        "price": 800,
+        "availability": "Available"
+    },
+    {
+        "id":5,
+        "name": "Hair Treatment",
+        "img": "https://i.ibb.co/cQyC2vT/woman-washing-head-hairsalon.jpg",
+        "description": "Hair treatments generally refer to any means of managing common hair related problems such as hair fall, dryness, dandruff, frizzy hair, thinning hair, and so on. .",
+        "price": 2600,
+        "availability": "Available"
+    },
+    {
+        "id":6,
+        "name": "Test Your Skin Problems",
+        "img": "https://i.ibb.co/FB0hMRJ/woman-wellness-center-during-skin-treatment.jpg",
+        "description": "The most common skin tests include: Patch testing: Patch tests are used to diagnose skin allergies. Allergens (substances that a person may be allergic to) ",
+        "price": 1400,
+        "availability": "Available"
+    },
+    {
+        "id":7,
+        "name": "Proper Health Testing",
+        "img": "https://i.ibb.co/KwhRK11/young-male-psysician-with-patient-measuring-blood-pressure.jpg",
+        "description": "Medical tests can help detect a condition, determine a diagnosis, plan treatment, check to see if treatment is working, or monitor the condition over time.",
+        "price": 2000,
+        "availability": "Available"
+     }
+]

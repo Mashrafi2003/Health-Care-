@@ -1,0 +1,10 @@
+.services{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+    
+}
+.service-header{
+    margin-top: 20px;
+    color: greenyellow;
+}
