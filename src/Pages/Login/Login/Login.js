@@ -73,9 +73,9 @@ const Login = () => {
         <input type="submit" className='btn-banner' value="Login" />
     </div>
 </form>
-<br />
+
 <p>New to Vicodin Clinic ?<Link to='/register'>Create Account</Link></p>
-<br />
+
 <button onClick={signinWithGoogle} className='btn btn-warning p-2 text-white'>Google Login</button>
         </div>
     );
