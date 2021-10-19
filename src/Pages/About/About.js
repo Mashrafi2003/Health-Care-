@@ -21,6 +21,7 @@ const About = () => {
             <div className='banner-description'>
                 <h3 className='text-success mb-2'>We Will Provide Every Necessery Steps</h3>
                 <p>A primary care provider (PCP) is a health care practitioner who sees people that have common medical problems. This person is most often a doctor. However, a PCP may be a physician assistant or a nurse practitioner. Your PCP is often involved in your care for a long time</p>
+                <br /><button className='btn btn-warning'>Visit Our Services</button>
             </div>
             <div>
                 <img src={banner2} alt="" />
@@ -31,6 +32,7 @@ const About = () => {
             <div className='banner-description'>
                 <h3 className='text-success'>Perfect Consultancy Against COVID-19</h3>
                 <p>A consultation allows you to gather information from your client, understand their goals, and recommend the right products. The key to a great consultation is understanding the client's needs and expectations, which are then recorded and signed off by the client and the stylist or therapist</p>
+                <br /><button className='btn btn-warning'>Visit Our Services</button>
             </div>
 
         </div>
