@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Website Details :
+This is a website for a company called vicodin for their health care services and about there foundation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Website  Links 
 
-## Available Scripts
+Github Repository Link : https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-Mashrafi2003
+Live Link Of this website : https://health-care-website-e5823.web.app/
 
-In the project directory, you can run:
+### Wesbite Features and Various Pages
 
-### `npm start`
+1.This website is built with React.js
+2.For optimization and customers need We Have Made This website using React router.Which is more faster than normal sites
+3.This website provides you to their home page where you will find vaarious type of services Provided By them. You Can see Details while clicking
+4.This website is fully authenitcated with firebase meaning that if you try to see full services and all other informations you have to log in into it. 
+5.We have provided two type of authentication for this moment. 
+    i)You can login with raw email and password
+    ii)You can login via google directly
+6.This website is safely hosted in Firebase for security .
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Upcoming Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Adding Facebook and github authentication system for login or signup
+2.Adding Features like forget passoword or reset password in order to Build user friendly behavious 
+3.Adding Search option so that services will be easier to found
+4.Making the code more organise
+5.Showing Full data on fetching
